@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/lang/en
+END
+auth_model_permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/lang/en/auth_model_permission.php
+END
+auth_model_group.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/lang/en/auth_model_group.php
+END
+auth_model_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/lang/en/auth_model_user.php
+END
+auth_model_role.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/lang/en/auth_model_role.php
+END

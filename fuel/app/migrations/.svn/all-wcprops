@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/12275/NjordWeather/fuel/app/migrations
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/12275/NjordWeather/fuel/app/migrations/.gitkeep
+END
+001_create_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12275/NjordWeather/fuel/app/migrations/001_create_users.php
+END

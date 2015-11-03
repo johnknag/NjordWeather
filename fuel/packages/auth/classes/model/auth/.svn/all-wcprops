@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth
+END
+rolepermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/rolepermission.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/group.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/user.php
+END
+metadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/metadata.php
+END
+role.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/role.php
+END
+grouppermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/grouppermission.php
+END
+userpermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/userpermission.php
+END
+permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/model/auth/permission.php
+END

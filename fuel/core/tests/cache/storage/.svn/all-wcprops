@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/storage
+END
+driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/storage/driver.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/storage/file.php
+END
+memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/storage/memcached.php
+END
+redis.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/storage/redis.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/acl
+END
+simpleacl.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/acl/simpleacl.php
+END
+driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/acl/driver.php
+END
+ormacl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/acl/ormacl.php
+END

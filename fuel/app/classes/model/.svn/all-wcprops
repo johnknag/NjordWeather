@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/12481/NjordWeather/fuel/app/classes/model
+END
+weatherdatum.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12288/NjordWeather/fuel/app/classes/model/weatherdatum.php
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/12275/NjordWeather/fuel/app/classes/model/.gitkeep
+END
+station.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/12288/NjordWeather/fuel/app/classes/model/station.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/12481/NjordWeather/fuel/app/classes/model/users.php
+END

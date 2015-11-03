@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/12482/NjordWeather/fuel/app/classes/controller
+END
+stationdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12482/NjordWeather/fuel/app/classes/controller/stationdata.php
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/12275/NjordWeather/fuel/app/classes/controller/.gitkeep
+END
+maps.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/12482/NjordWeather/fuel/app/classes/controller/maps.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/12479/NjordWeather/fuel/app/classes/controller/users.php
+END
+charts.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12338/NjordWeather/fuel/app/classes/controller/charts.php
+END
+windvector.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12468/NjordWeather/fuel/app/classes/controller/windvector.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/12433/NjordWeather/fuel/app/classes/controller/home.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/12275/NjordWeather/fuel/vendor/monolog/monolog/tests/Monolog
+END
+PsrLogCompatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12275/NjordWeather/fuel/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/12275/NjordWeather/fuel/vendor/monolog/monolog/tests/Monolog/TestCase.php
+END
+LoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12275/NjordWeather/fuel/vendor/monolog/monolog/tests/Monolog/LoggerTest.php
+END

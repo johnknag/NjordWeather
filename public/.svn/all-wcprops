@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/12488/NjordWeather/public
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/12275/NjordWeather/public/web.config
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/12275/NjordWeather/public/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/12275/NjordWeather/public/index.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/12275/NjordWeather/public/favicon.ico
+END

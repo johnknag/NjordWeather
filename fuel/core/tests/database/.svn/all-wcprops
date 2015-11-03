@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database/exception.php
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database/result.php
+END
+connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database/connection.php
+END
+expression.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database/expression.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database/query.php
+END
+transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12275/NjordWeather/fuel/core/tests/database/transaction.php
+END

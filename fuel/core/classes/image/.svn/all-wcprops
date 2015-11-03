@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/12275/NjordWeather/fuel/core/classes/image
+END
+gd.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/12275/NjordWeather/fuel/core/classes/image/gd.php
+END
+driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/12275/NjordWeather/fuel/core/classes/image/driver.php
+END
+imagemagick.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12275/NjordWeather/fuel/core/classes/image/imagemagick.php
+END
+imagick.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/12275/NjordWeather/fuel/core/classes/image/imagick.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/handler
+END
+json.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/handler/json.php
+END
+driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/handler/driver.php
+END
+serialized.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/handler/serialized.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12275/NjordWeather/fuel/core/tests/cache/handler/string.php
+END

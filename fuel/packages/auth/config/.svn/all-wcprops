@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/12480/NjordWeather/fuel/packages/auth/config
+END
+simpleauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12480/NjordWeather/fuel/packages/auth/config/simpleauth.php
+END
+ormauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/config/ormauth.php
+END
+opauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/config/opauth.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/12480/NjordWeather/fuel/packages/auth/config/auth.php
+END

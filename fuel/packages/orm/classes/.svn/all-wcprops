@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes
+END
+manymany.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/manymany.php
+END
+belongsto.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/belongsto.php
+END
+hasone.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/hasone.php
+END
+relation.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/relation.php
+END
+hasmany.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/hasmany.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/model.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/query.php
+END
+observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/12275/NjordWeather/fuel/packages/orm/classes/observer.php
+END

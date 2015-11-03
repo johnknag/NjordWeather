@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/12275/NjordWeather/fuel/core/classes/controller
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/12275/NjordWeather/fuel/core/classes/controller/template.php
+END
+rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/12275/NjordWeather/fuel/core/classes/controller/rest.php
+END
+hybrid.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/12275/NjordWeather/fuel/core/classes/controller/hybrid.php
+END

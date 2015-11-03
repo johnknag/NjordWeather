@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth
+END
+driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/driver.php
+END
+opauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/opauth.php
+END
+exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/exceptions.php
+END

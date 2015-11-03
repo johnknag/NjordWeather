@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/group
+END
+ormgroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/group/ormgroup.php
+END
+driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/group/driver.php
+END
+simplegroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/classes/auth/group/simplegroup.php
+END

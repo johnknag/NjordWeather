@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations
+END
+009_auth_create_oauth2tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/009_auth_create_oauth2tables.php
+END
+004_auth_create_permissiontables.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/004_auth_create_permissiontables.php
+END
+002_auth_create_grouptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/002_auth_create_grouptables.php
+END
+001_auth_create_usertables.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/001_auth_create_usertables.php
+END
+006_auth_add_authactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/006_auth_add_authactions.php
+END
+007_auth_add_permissionsfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/007_auth_add_permissionsfilter.php
+END
+005_auth_create_authdefaults.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/005_auth_create_authdefaults.php
+END
+010_auth_fix_jointables.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/010_auth_fix_jointables.php
+END
+003_auth_create_roletables.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/003_auth_create_roletables.php
+END
+008_auth_create_providers.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12275/NjordWeather/fuel/packages/auth/migrations/008_auth_create_providers.php
+END
